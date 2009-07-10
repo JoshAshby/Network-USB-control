@@ -1,0 +1,1 @@
+This needs pyserial, sockets, backstage.py, frontend.py, and server.py to run, server.py, backstage.py goes on the robot computer, and frontend.py and backstage.py goes on the networked computer, please change the ports, ip's and what not to fit your need. WARNING: the recieve function in frontend.py doesn't work at this moment
